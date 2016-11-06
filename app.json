@@ -14,7 +14,11 @@
     "list":[
       {
         "text":"新闻",
-        "pagePath":"page/index/index"
+        "pagePath":"page/news/news"
+      },
+      {
+        "text":"视频",
+        "pagePath":"page/video/index"
       }
     ]
   }
