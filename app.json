@@ -1,0 +1,21 @@
+{
+  "pages":[
+    "page/news/news",
+    "page/news/newscontent/newscontent"
+  ],
+  "window":{
+    "navigationBarBackgroundColor":"transparent",
+    "navigationBarTitleText":"天天新闻",
+    "navigationBarTextStyle": "#000",
+    "backgroundColor":"#fff",
+    "enablePullDownRefresh":true
+  },
+  "tabBar":{
+    "list":[
+      {
+        "text":"新闻",
+        "pagePath":"page/index/index"
+      }
+    ]
+  }
+}
